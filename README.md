@@ -24,7 +24,7 @@
    rel="noopener" 
    target="_blank">
   <img align="center" src="https://img.icons8.com/bubbles/50/000000/apple-mail.png" 
-       alt="bhola-github" 
+       alt="https://github.com/Bhola-Yadav" 
        height="40" 
        width="40" />
 </a>
