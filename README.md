@@ -3,7 +3,7 @@
     <!--img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"-->
   </picture> Hello, I'm BHOLA YADAV <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
   <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+Java+Devloper;A+Expert+oracle+database;A+Expert+uiux+Devloper" alt="Typing SVG" align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=poppins&size=23&duration=4000&color=F714ED&lines=A+Passionate+Java+Devloper;A+Passionate+oracle+database;A+Passionate+uiux+Devloper" alt="Typing SVG" align="center">
 
      
 ---
